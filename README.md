@@ -4,8 +4,7 @@ Extract cards from image and save as separate images.
 
 # Input
 
-in/NL-HtBHIC_7737_1541_0003.jpg
-![original https://www.bhic.nl/integrated?mizig=210&miadt=235&miaet=1&micode=7737&minr=1604953&miview=inv2](out/NL-HtBHIC_7737_1541_0003.1.jpg)
+![original https://www.bhic.nl/integrated?mizig=210&miadt=235&miaet=1&micode=7737&minr=1604953&miview=inv2](in/NL-HtBHIC_7737_1541_0003.jpg)
 
 # Output
 
@@ -18,4 +17,4 @@ in/NL-HtBHIC_7737_1541_0003.jpg
 
 # Problem
 
-Why are images 2 (_1) and 6 (_5) rotated ????
+Why are the second and last images rotated ????
